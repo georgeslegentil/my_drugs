@@ -14,7 +14,7 @@ export default class Details extends Component {
                         // title
                         <div className = "container py-5">
                             <div className = "row">
-                                <div className = "col10 mx-auto text-center text-slanted text-blue my-5">
+                                <div className = "col-10 mx-auto text-center text-slanted text-blue my-5">
                                     <h1>{title}</h1>
                                 </div>
                             </div>
@@ -52,6 +52,7 @@ export default class Details extends Component {
                                         disabled={inCart ? true : false}
                                         onClick={() => {
                                            value.addToCart(id);
+                                           value.openModal(id);
                                         }}
                                         >
                                             {inCart ? "inCart" : "add to cart"}

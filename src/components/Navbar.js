@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import {Link} from 'react-router-dom';
-import Switch from 'react-bootstrap/esm/Switch';
 import logo from '../logo1.png'
 import styled from 'styled-components';
 import {ButtonContainer} from "./Button"
