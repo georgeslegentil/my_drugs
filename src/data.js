@@ -69,7 +69,7 @@ export const storeProducts = [
       title: "Blue Pills",
       img: "img/product-6.jpg",
       price: 17,
-      company: "apple",
+      company: "FCC",
       info:
         "Incoming product info",
       inCart: false,
@@ -81,7 +81,7 @@ export const storeProducts = [
       title: "Pink Tesla",
       img: "img/product-7.jpg",
       price: 30,
-      company: "apple",
+      company: "FCC",
       info:
         "The fastest pill in terms of High kicking. This drug will take you higher than an airplane 30 seconds after you take the pill. For most experienced users only, better know how to handle the madness our Nikola Tesla has put in these.",
       inCart: false,
@@ -93,7 +93,7 @@ export const storeProducts = [
       title: "Philipp Plein",
       img: "img/product-8.jpg",
       price: 2,
-      company: "apple",
+      company: "FCC",
       info:
         "One of the rarest on our market, we do not guarantee it's availabilty so make sure to buy it on time. Philipe Plein's handcrafted pill mixes purity with elegance since it's chemistry is orchestrated by our contact in Italy who gives it a local touch.",
       inCart: false,
