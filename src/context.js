@@ -8,16 +8,16 @@ const ProductContext = React.createContext();
 //consumer
 
 class ProductProvider extends Component {
-state={
+state = {
     products:storeProducts,
     detailProduct:detailProduct
 }
 
-handleDetail = () =>{
+handleDetail = () => {
 console.log('hello from detail')
 }
 
-addToCart = () =>{
+addToCart = () => {
     console.log('hello from add to cart');
 }
 
