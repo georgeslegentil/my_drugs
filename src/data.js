@@ -8,7 +8,7 @@ export const storeProducts = [
       id: 1,
       title: "Homer Simpson",
       img: "img/product-1.jpg",
-      price: 50,
+      price: 25,
       company: "FCC",
       info:
         "A particular product for our most desiring users, it's potency of 200mg gives the highest kicks during a trip. Not recommended if you're looking for experimenting MDMA.",
@@ -20,7 +20,7 @@ export const storeProducts = [
       id: 2,
       title: "Blue Rolex",
       img: "img/product-2.jpg",
-      price: 16,
+      price: 45,
       company: "FCC",
       info:
         "Our latest product from Holland which specificity is it's purity of 94,6%. With a dosage of 150mg per pill , it will give you the luxury trip you ever dreamt of.",
@@ -32,7 +32,7 @@ export const storeProducts = [
       id: 3,
       title: "White Mercedes",
       img: "img/product-3.jpg",
-      price: 8,
+      price: 10,
       company: "FCC",
       info:
         "This one is for casual users who are trying to taste German quality with a bit of safety as well. It's dosage of 75mg will make sure you'll trip enough to be high for the day, but never in a bad way.",
@@ -56,7 +56,7 @@ export const storeProducts = [
       id: 5,
       title: "Blue Butterfly",
       img: "img/product-5.jpg",
-      price: 24,
+      price: 22,
       company: "FCC",
       info:
         "The famous BB, exclusively available at our shop , is a piece of art MDMA that only us provide. It has a 150mg dosage and a normal-based trip duracy, recommended for all types of users.",
@@ -68,7 +68,7 @@ export const storeProducts = [
       id: 6,
       title: "Blue MethDMA",
       img: "img/product-6.jpg",
-      price: 17,
+      price: 35,
       company: "FCC",
       info:
         "Our most sophisticated high end product that combines two types of highness given your mood. Made by our real-life Heisenberg, the pill has two cuttable sides, one for a light high and one for a crazy trip. Warning, the second one's purity is near 100%, make sure to enjoy it safely.",
@@ -92,7 +92,7 @@ export const storeProducts = [
       id: 8,
       title: "Philipp Plein",
       img: "img/product-8.jpg",
-      price: 2,
+      price: 30,
       company: "FCC",
       info:
         "One of the rarest on our market, we do not guarantee it's availabilty so make sure to buy it on time. Philipe Plein's handcrafted pill mixes purity with elegance since it's chemistry is orchestrated by our contact in Italy who gives it a local touch.",
