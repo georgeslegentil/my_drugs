@@ -19,7 +19,19 @@ export default function CartTotals({value}) {
                             <strong>
                                 subtotal:
                             </strong>
-                            <strong>{cartSubtotal} €</strong>
+                            <strong> {cartSubtotal}€</strong>
+                        </h5>
+                        <h5>
+                            <strong>
+                                tax:
+                            </strong>
+                            <strong> {cartTax}€</strong>
+                        </h5>
+                        <h5>
+                            <strong>
+                                total:
+                            </strong>
+                            <strong> {cartTotal}€</strong>
                         </h5>
                     </div>
                 </div>
