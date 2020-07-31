@@ -66,12 +66,12 @@ export const storeProducts = [
     },
     {
       id: 6,
-      title: "Blue Pills",
+      title: "Blue MethDMA",
       img: "img/product-6.jpg",
       price: 17,
       company: "FCC",
       info:
-        "Incoming product info",
+        "Our most sophisticated high end product that combines two types of highness given your mood. Made by our real-life Heisenberg, the pill has two cuttable sides, one for a light high and one for a crazy trip. Warning, the second one's purity is near 100%, make sure to enjoy it safely.",
       inCart: false,
       count: 0,
       total: 0
