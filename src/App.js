@@ -7,7 +7,8 @@ import ProductList from './components/ProductList';
 import Details from './components/Details';
 import Cart from './components/Cart';
 import Default from './components/Default';
-import Modal from './components/Modal'
+import Modal from './components/Modal';
+import Admin from './components/Admin';
 
 
 class App extends Component {
@@ -19,6 +20,7 @@ class App extends Component {
         <Route exact path="/" component={ProductList}></Route>
         <Route path="/details" component={Details}></Route>
         <Route path="/cart" component={Cart}></Route>
+        <Route path="/admin" component={Admin}></Route>
         <Route component={Default}></Route>
       </Switch>
       <Modal />
